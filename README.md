@@ -1,5 +1,7 @@
-# Project Methodology
+# Gene expression of non-small cell lung cancer (RNAseq) classification, biomarker identification using feature selection embedded tree-based model and interpretability
 * this project was carried out as the final assignment for the course Algorithms for Bioinformatics and Computational Biology in the postgraduate course in computing at the federal university of rio grande do sul.
+
+# Project Methodology
 * the methodology used in the gene expression study of non-small cell lung cancer (NSCLC) to identify important genes and improve disease classification using machine learning.
 
 ## Data Acquisition
