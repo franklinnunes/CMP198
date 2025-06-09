@@ -3,6 +3,8 @@
 
 # Project Methodology
 * the methodology used in the gene expression study of non-small cell lung cancer (NSCLC) to identify important genes and improve disease classification using machine learning.
+  ![Screenshot(19)](https://github.com/user-attachments/assets/224568d8-0ea2-4725-883f-7feaaf7560c6)
+
 
 ## Data Acquisition
 * Gene expression data from the GSE81089 dataset, available on Gene Expression Omnibus. This dataset includes tumor tissue samples from 199 NSCLC patients and 18 healthy lung tissue samples, collected during surgical procedures in Sweden between 2006 and 2010. RNA quality was verified, and RNAseq libraries were sequenced on the Illumina HiSeq 2500 platform.
