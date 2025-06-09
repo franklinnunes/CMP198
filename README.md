@@ -5,7 +5,7 @@
 * the methodology used in the gene expression study of non-small cell lung cancer (NSCLC) to identify important genes and improve disease classification using machine learning.
 
 ## Data Acquisition
-* We used gene expression data from the GSE81089 dataset, available on Gene Expression Omnibus. This dataset includes tumor tissue samples from 199 NSCLC patients and 18 healthy lung tissue samples, collected during surgical procedures in Sweden between 2006 and 2010. RNA quality was verified, and RNAseq libraries were sequenced on the Illumina HiSeq 2500 platform.
+* Gene expression data from the GSE81089 dataset, available on Gene Expression Omnibus. This dataset includes tumor tissue samples from 199 NSCLC patients and 18 healthy lung tissue samples, collected during surgical procedures in Sweden between 2006 and 2010. RNA quality was verified, and RNAseq libraries were sequenced on the Illumina HiSeq 2500 platform.
 
 ## Data Preprocessing
 * First, the data was normalized using MinMaxScaler to scale gene expression values to a binary range (0-1), ensuring all features contributed equally to the analysis. Subsequently, the dataset's dimensionality was reduced by 50% (from 39975 to 19987 features) using the SelectKBest method with the f_classif scoring function, selecting the most informative features.
