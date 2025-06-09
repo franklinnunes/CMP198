@@ -23,7 +23,7 @@ The best-performing model was then used for feature selection through an embedde
 
 ## Literature Review
 * Official gene names corresponding to the 10 features selected by Random Forest (feature_importances_) and the LIME local explainer were retrieved from the Ensembl database. Protein products and biological functions were collected from UniProt (UniProt Consortium, 2023). A comprehensive literature review was conducted in major scientific databases like Scopus and PubMed to assess the association of the selected genes with cancer, using specific search terms.
-
+* Full discution about the results can be found at: "xai-functional-enrichment-discution.pdf"
 ## Libraries Used
 ### The proposed approach was implemented in Python 3. Key libraries used include:
 * Scikit-Learn: For general machine learning tasks.
